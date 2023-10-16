@@ -19,7 +19,7 @@
 Убедитесь, что на вашем компьютере установлен [Python](https://www.python.org/downloads/).
 
 Клонируйте репозиторий:
-git clone https://github.com/your-username/magic-8-ball.git
+git clone https://github.com/enpure/magic-8-ball.git
 
 Перейдите в директорию проекта:
 cd magic-8-ball
